@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arkhanya.privacy.gameraid/static/css/main.9df28db0.css",
+    "main.js": "/arkhanya.privacy.gameraid/static/js/main.1b1133e4.js",
+    "static/js/787.34b08039.chunk.js": "/arkhanya.privacy.gameraid/static/js/787.34b08039.chunk.js",
+    "static/media/logo.svg": "/arkhanya.privacy.gameraid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/arkhanya.privacy.gameraid/index.html",
+    "main.9df28db0.css.map": "/arkhanya.privacy.gameraid/static/css/main.9df28db0.css.map",
+    "main.1b1133e4.js.map": "/arkhanya.privacy.gameraid/static/js/main.1b1133e4.js.map",
+    "787.34b08039.chunk.js.map": "/arkhanya.privacy.gameraid/static/js/787.34b08039.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df28db0.css",
+    "static/js/main.1b1133e4.js"
+  ]
+}
